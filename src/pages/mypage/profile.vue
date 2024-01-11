@@ -1,0 +1,7 @@
+<template>
+  <div>
+    <div class="text-h5">Mypage/Profile</div>
+  </div>
+</template>
+
+<script setup></script>
